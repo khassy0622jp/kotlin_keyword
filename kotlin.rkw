@@ -1,0 +1,11 @@
+﻿// 正規表現キーワード Ver1
+RxKey[000]=RK1,/lateinit/k
+RxKey[001]=RK1,/val/k
+RxKey[002]=RK1,/var/k
+RxKey[003]=RK1,/override/k
+RxKey[004]=RK1,/fun/k
+RxKey[005]=RK1,/import/k
+RxKey[006]=RK2,/@[A-Za-z]*/k
+RxKey[007]=RK1,/va[r|l]/k
+RxKey[008]=RK1,/suspend/k
+RxKey[009]=RK1,/true|false/k

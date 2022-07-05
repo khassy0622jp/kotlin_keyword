@@ -1,0 +1,74 @@
+﻿// kotlin キーワード定義ファイル
+// CASE=True
+
+Any
+Boolean
+Byte
+Double
+Float
+Int
+Long
+Short
+String
+abstract
+break
+by lazy
+by map
+catch
+Char
+class
+companion object
+const
+constructor
+continue
+crossinline
+data class
+else
+enum
+extends
+final
+finally
+for
+fun
+if
+implements
+import
+infix
+inline
+inner
+instanceof
+interface
+internal
+lateinit
+mutableListOf
+native
+noinline
+Nothing
+object
+observable
+open
+operator
+override
+package
+private
+protected
+public
+reified
+return
+static
+super
+switch
+synchronized
+tailrec
+this
+throw
+throws
+transient
+try
+Unit
+val
+var
+void
+volatile
+while
+with
